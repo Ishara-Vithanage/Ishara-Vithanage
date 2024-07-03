@@ -1,20 +1,13 @@
 🚀 About Me
-I'm a Cyber Security Student/ Cryptography Learner/ Front End developer...
+I'm a Computer Science Student/ Front End Developer/ AI, ML Enthusiast
 
 🔗 Links
-portfolio linkedin
 
 👩‍💻 I'm currently working at My Own Projects
-
-🧠 I'm currently learning about Reverse Engineering
-
-👯‍♀️ I'm looking to collaborate on Cyber Security projects
-
-🤔 I'm looking for help with Cryptography
-
-📫 How to reach me linkedin
-
-😄 Pronouns = BlackFoxk
+🧠 I'm currently learning about Machine Learning
+👯‍♀️ I'm looking to collaborate on Web Development Projects
+🤔 I'm looking for help with Machine Learning
+📫 How to reach me
 
 🛠 Skills
-C, Python, React JS, Nessus, Javascript, HTML, CSS...
+Python, React JS, Javascript, HTML, CSS...
