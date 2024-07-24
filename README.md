@@ -1,4 +1,4 @@
-<h1>Welcome</h1>
+<h1 style="font-size":30;>Welcome</h1>
 
 <h2>🚀 About Me</h2>
 <h4>I'm a Computer Science Student/ React Developer/ AI, ML Enthusiast</h4>
