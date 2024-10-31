@@ -6,8 +6,8 @@
 <h4>I'm a Computer Science Student/ React Developer/ AI, ML Enthusiast</h4>
 
 👩‍💻 I'm currently working at My Own Projects  
-🧠 I'm currently learning about AI  
-👯‍♀️ I'm looking to collaborate on Web Development Projects  
+🧠 I'm currently learning AI  
+👯‍♀️ I'm looking to collaborate on Full-Stack Development Projects  
 🤔 I'm looking for help with Machine Learning  
 
 <h2>🔗 Links</h2>
