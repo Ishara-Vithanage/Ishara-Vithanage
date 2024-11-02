@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ishara Harshana </h1>
 
 <h2>🚀 About Me</h2>
-<h4>I'm a Computer Science Student/ React Developer/ AI, ML Enthusiast</h4>
+<h4>I'm a Computer Science Student/ React Developer/ AI Enthusiast</h4>
 
 👩‍💻 I'm currently working at My Own Projects  
 🧠 I'm currently learning AI  
