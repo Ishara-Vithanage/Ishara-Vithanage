@@ -17,16 +17,6 @@
 <a href="https://ishara-vithanage.github.io/">
   <img height="50" src="https://www.svgrepo.com/show/267862/portfolio.svg"/>
 </a>
-<h2>🛠 Skills</h2>
-<p>
-<img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"/>
-<img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg"/>
-<img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"/>
-<img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"/>
-<img height="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"/>
-</p>
-<p>Python, React JS, Javascript, HTML, CSS...</p>
-
 [![An image of @isharavithanage's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/isharavithanage)](https://holopin.io/@isharavithanage)
 
 
