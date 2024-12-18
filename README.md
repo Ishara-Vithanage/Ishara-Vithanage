@@ -1,5 +1,3 @@
-<img align="right" alt="Coding" width="100%" src="https://i.ibb.co/9vQpNC4/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png">
-
 <h1 align="center">Hi 👋, I'm Ishara Harshana </h1>
 
 <h2>🚀 About Me</h2>
