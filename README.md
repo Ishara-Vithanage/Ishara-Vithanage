@@ -44,9 +44,8 @@ I am dedicated to building solutions that make a difference in the tech world an
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gunjanghate/gunjanghate/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gunjanghate/gunjanghate/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/gunjanghate/gunjanghate/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ishara-Vithanage/Ishara-Vithanage/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ishara-Vithanage/Ishara-Vithanage/output/github-snake.svg" />
 </picture>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
@@ -54,62 +53,15 @@ I am dedicated to building solutions that make a difference in the tech world an
 ## Hacktoberfest'25 
 [![An image of @isharavithanage's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/isharavithanage)](https://holopin.io/@isharavithanage)
 
-## Badges
-
-<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://badgr.com/public/assertions/LNxGZSLWQYW8lYpq52w81A"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/LNxGZSLWQYW8lYpq52w81A/image"></a></blockquote>
-
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a9c47c51-7156-4921-9d14-cb6911a53fdf" data-share-badge-host="https://www.credly.com"></div>
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="05f14f97-59a2-46f3-a498-22fee3d48469" data-share-badge-host="https://www.credly.com"></div>
-
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gg._gunjann_) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gunjan-ghate-6506b5288)
-[![X](https://img.shields.io/badge/-%230077B5.svg?logo=x&logoColor=black)](https://x.com/gunjanghate11)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/demonz_shara) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ishara-harshana)
+[![X](https://img.shields.io/badge/-%230077B5.svg?logo=x&logoColor=black)](https://x.com/demonz_shara)
 
-## Tech Stack:
-
-<h3 align="left">Languages</h3>
+## Languages:
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,py,solidity" />
-  </a>
-</p>
-
-
-- ⚛️ Frameworks & Libraries  
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,tailwind,shadcn,hardhat" />
-  </a>
-</p>
-
-- 🗄️ Databases & Storage  
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,appwrite,metamask" />
-  </a>
-</p>
-
-- ☁️ Cloud & Hosting  
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gcp,vercel,netlify" />
-  </a>
-</p>
-
-- 🔧 Dev Tools & Platforms  
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,remix,idea,linux,androidstudio,gemini,cursor,huggingface,metamask" />
-  </a>
-</p>
-
-- 🎨 Design Tools  
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,canva" />
   </a>
 </p>
 
