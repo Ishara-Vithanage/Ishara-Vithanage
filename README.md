@@ -26,8 +26,6 @@ I am dedicated to building solutions that make a difference in the tech world an
   </tr>
 </table>
 
-
-
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ishara-Vithanage&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ishara-Vithanage&theme=tokyonight&hide_border=false)<br/>
@@ -41,7 +39,6 @@ I am dedicated to building solutions that make a difference in the tech world an
 ## 📈 Contribution Graph
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ishara-Vithanage&theme=react-dark&hide_border=true)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ishara-Vithanage/Ishara-Vithanage/output/github-snake-dark.svg" />
