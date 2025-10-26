@@ -52,7 +52,7 @@ I am dedicated to building solutions that make a difference in the tech world an
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
 
 ## Hacktoberfest'25 
-[![An image of @gunjanghate's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Ishara-Vithanage)](https://holopin.io/@Ishara-Vithanage)
+[![An image of @isharavithanage's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/isharavithanage)](https://holopin.io/@isharavithanage)
 
 ## Badges
 
