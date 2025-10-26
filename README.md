@@ -30,25 +30,20 @@ I am dedicated to building solutions that make a difference in the tech world an
 ![](https://github-readme-stats.vercel.app/api?username=Ishara-Vithanage&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ishara-Vithanage&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishara-Vithanage&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-<!-- Profile Details Card -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ishara-Vithanage&theme=tokyonight" alt="profile details"/>
 </div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
 
 ## 📈 Contribution Graph
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ishara-Vithanage&theme=react-dark&hide_border=true)
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ishara-Vithanage/Ishara-Vithanage/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ishara-Vithanage/Ishara-Vithanage/output/github-snake.svg" />
 </picture>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
-
 ## Hacktoberfest'25 
 [![An image of @isharavithanage's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/isharavithanage)](https://holopin.io/@isharavithanage)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/demonz_shara) 
