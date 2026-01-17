@@ -33,7 +33,7 @@ I am dedicated to building solutions that make a difference in the tech world an
 </div>
 
 ## 📈 Contribution Graph
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ishara-Vithanage&theme=react-dark&hide_border=true)
+## ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ishara-Vithanage&theme=react-dark&hide_border=true)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ishara-Vithanage/Ishara-Vithanage/output/github-snake-dark.svg" />
