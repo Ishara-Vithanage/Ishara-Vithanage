@@ -32,8 +32,8 @@ I am dedicated to building solutions that make a difference in the tech world an
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishara-Vithanage&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 </div>
 
-## 📈 Contribution Graph
-## ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ishara-Vithanage&theme=react-dark&hide_border=true)
+<!-- ## 📈 Contribution Graph
+ ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ishara-Vithanage&theme=react-dark&hide_border=true) -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ishara-Vithanage/Ishara-Vithanage/output/github-snake-dark.svg" />
